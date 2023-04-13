@@ -7,7 +7,9 @@ Features
 Google Docs offers a range of features to help users create and edit documents efficiently and effectively, including:
  
 1-Create new documents and provide a specific name that file
+
 2-Edit text with basic formatting options such as bold, italic, underline, and font size
+
 3-Export your documents as PDFs formats for easy sharing and printing.
 
 Technologies Used
